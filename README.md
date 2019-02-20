@@ -1,3 +1,11 @@
-# DirectIQ Rest API Documentation
+# DirectIQ Rest API Document
 
-Hello, welcome to the DirectIQ REST API documentation page. You'll find the necessary info here to get you started to use the functions you need.
+Welcome to the DirectIQ RESTAPI document. You can use our API to access DirectIQ data endpoints, which can get information on contacts, contact lists, templates, campaigns and reports in your account.
+
+## Getting Started
+
+To connect to the API with basic auth you need the following:
+
+* Secure URL pointing to a Bigcommerce store
+* Username of DirectIQ account
+* API key for the user
