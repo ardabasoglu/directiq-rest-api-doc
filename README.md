@@ -14,5 +14,5 @@ To connect to the API with basic auth you need the following:
 
 An important part of authentication is your API key. You can access your API key from **My Account > Social Media & Integrations > API Integration** in your DirectIQ dashboard.
 
-If you are not a registered DirectIQ user,[you can register here]: https://www.directiq.com/.
+If you are not a registered DirectIQ user,[you can register here](https://www.directiq.com)
 
